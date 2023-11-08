@@ -4,6 +4,8 @@ Materials accompanying the session presented by Matteo Grella at [GopherCon AU 2
 
 This repository contains examples for integrating ML/NLP capabilities into Go applications using [Cybertron](https://github.com/nlpodyssey/cybertron).
 
+> The slides will be available once this repository receives 100 stars. Just kidding, I'll upload them right after the presentation regardless :)
+
 # Examples
 
 Here is a list of available demos (each one has its own README):
@@ -19,6 +21,16 @@ Here is a list of available demos (each one has its own README):
 Please note that each example download a model that is approximately 2 GB in size. Ensure you have ample storage available on your hard drive before proceeding. For optimal performance, it is recommended to execute the models on an amd64 architecture. Mac users with Apple Silicon should prefix all executions with `GOARCH=amd64`.
 
 # Links
+
+### Python
+
+- [PyTorch](https://github.com/pytorch/pytorch)
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed)
+- [Jina](https://github.com/jina-ai/jina)
+- [Transformers](https://github.com/huggingface/transformers)
+- [Outlines](https://github.com/outlines-dev/outlines/)
+- [Haystack](https://github.com/deepset-ai/haystack)
+- [LlamaIndex](https://github.com/run-llama/llama_index)
 
 ### C++
 
