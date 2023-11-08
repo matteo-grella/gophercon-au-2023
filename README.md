@@ -41,6 +41,10 @@ Please note that each example download a model that is approximately 2 GB in siz
 - [qdrant](https://github.com/qdrant/qdrant)
 - [candle](https://github.com/huggingface/candle)
 
+### Fortran
+
+- [rwkv.f90](https://github.com/FortAI-Hub/rwkv.f90)
+
 ### Go
 - [Hugging Face](https://huggingface.co/models)
 - [Cybertron](https://github.com/nlpodyssey/cybertron)
