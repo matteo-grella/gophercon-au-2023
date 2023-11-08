@@ -15,7 +15,7 @@ import (
 )
 
 func main() {
-	if len(os.Args) != 4 {
+	if len(os.Args) != 3 {
 		log.Fatalf("usage: %s <dir> <labels>", os.Args[0])
 	}
 
@@ -28,7 +28,7 @@ func main() {
 	}
 
 	params := zeroshotclassifier.Parameters{
-		CandidateLabels:    strings.Split(os.Args[3], ","),
+		CandidateLabels:    strings.Split(os.Args[2], ","),
 		HypothesisTemplate: zeroshotclassifier.DefaultHypothesisTemplate,
 		MultiLabel:         true,
 	}
