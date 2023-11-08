@@ -31,10 +31,12 @@ Please note that each example download a model that is approximately 2 GB in siz
 - [Outlines](https://github.com/outlines-dev/outlines/)
 - [Haystack](https://github.com/deepset-ai/haystack)
 - [LlamaIndex](https://github.com/run-llama/llama_index)
+- [NAM](https://github.com/sdatkinson/neural-amp-modeler)
 
 ### C++
 
 - [llama.cpp](https://github.com/ggerganov/llama.cpp)
+- [NAM-core](https://github.com/sdatkinson/NeuralAmpModelerCore)
 
 ### Rust
 
