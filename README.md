@@ -4,7 +4,7 @@ Materials accompanying the session presented by Matteo Grella at [GopherCon AU 2
 
 This repository contains examples for integrating ML/NLP capabilities into Go applications using [Cybertron](https://github.com/nlpodyssey/cybertron).
 
-> The slides will be available once this repository receives 100 stars. Just kidding, I'll upload them right after the presentation regardless :)
+Deck: [The Go-to Language for AI: Exploring Opportunities and Challenges](https://speakerdeck.com/matteogrella/the-go-to-language-for-ai-exploring-opportunities-and-challenges)
 
 # Examples
 
