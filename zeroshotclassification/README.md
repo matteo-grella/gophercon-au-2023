@@ -1,6 +1,6 @@
 # Zero-shot Text Classification
 
-This example shows how to use a pre-trained BAR model for zero-shot text classification.
+This example shows how to use a pre-trained BART model for zero-shot text classification.
 
 ```console
 go run . models sport,music,politics,business,technology,entertainment,science,health,war
